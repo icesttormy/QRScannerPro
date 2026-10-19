@@ -1,0 +1,8 @@
+pyside6
+opencv-python
+numpy
+pytesseract
+pyzbar
+keyboard
+pyinstaller
+pefile
