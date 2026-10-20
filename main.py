@@ -1,3 +1,7 @@
+# Copyright (c) 2026 icesttormy
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+# Required Notice: Copyright (c) 2026 icesttormy (https://github.com/icesttormy/QRScannerPro)
+
 """
 截屏识别 URL / 二维码 工具 —— PySide6 版（后台常驻 + 可配置版）
 --------------------------------------------------------------

@@ -20,6 +20,9 @@ AppId={{A1B2C3D4-E5F6-4A5B-9C8D-1234567890AB}}
 AppName={#MyAppName}
 AppVersion={#MyAppVersion}
 AppPublisher={#MyAppPublisher}
+AppPublisherURL=https://github.com/icesttormy/QRScannerPro
+AppSupportURL=https://github.com/icesttormy/QRScannerPro
+LicenseFile=LICENSE
 ; 默认安装到 Program Files 下的同名文件夹
 DefaultDirName={autopf}\{#MyAppName}
 DefaultGroupName={#MyAppName}
